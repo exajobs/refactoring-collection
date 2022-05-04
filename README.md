@@ -42,3 +42,16 @@ _Refactoring (verb)_: to restructure software by applying a series of refactorin
 
 * [How to justify code refactoring time?](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time) - discussion and advice on justifying refactoring (Stack Exchange)
 * [History of Refactoring](https://wiki.c2.com/?HistoryOfRefactoring) - C2 wiki post about beginnings of refactoring (I am not sure how accurate it is regarding the first use of the term "refactoring")
+
+
+## Quotes
+
+    Don't live with broken windows. - Andy Hunt & Dave Thomas
+    A Fallacy of Software: If it works, and we don't change anything, it will keep working. - Jessica Kerr
+    Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that. - Grady Booch
+    You think refactoring legacy software is bad. Try refactoring legacy culture. - Larry Garfield
+    We're changing what the code says without changing what it does. - Michael D. Hill
+    One of my most productive days was throwing away 1000 lines of code. - Ken Thompson
+    Refuctoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself. - Jason Gorman
+
+
