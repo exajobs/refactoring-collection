@@ -1,4 +1,4 @@
-# refactoring-collection
+# Refactoring
 
 ## Definition
 
