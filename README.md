@@ -46,12 +46,12 @@ _Refactoring (verb)_: to restructure software by applying a series of refactorin
 
 ## Quotes
 
-    Don't live with broken windows. - Andy Hunt & Dave Thomas
-    A Fallacy of Software: If it works, and we don't change anything, it will keep working. - Jessica Kerr
-    Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that. - Grady Booch
-    You think refactoring legacy software is bad. Try refactoring legacy culture. - Larry Garfield
-    We're changing what the code says without changing what it does. - Michael D. Hill
-    One of my most productive days was throwing away 1000 lines of code. - Ken Thompson
-    Refuctoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself. - Jason Gorman
+  - Don't live with broken windows. - Andy Hunt & Dave Thomas
+  - A Fallacy of Software: If it works, and we don't change anything, it will keep working. - Jessica Kerr
+  - Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that. - Grady Booch
+  - You think refactoring legacy software is bad. Try refactoring legacy culture. - Larry Garfield
+  - We're changing what the code says without changing what it does. - Michael D. Hill
+  - One of my most productive days was throwing away 1000 lines of code. - Ken Thompson
+  - Refactoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself. - Jason Gorman
 
 
