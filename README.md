@@ -2,7 +2,7 @@
  An ongoing curated list of awesome frameworks, important books and articles, talks and videos, libraries, learning tutorials, coding best practices and technical resources about Refactoring.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-## Definition
+## `Definition`
 
 There are a few definitions of refactoring (in practice very similar). The most popular is a 2-part definition by Martin Fowler:
 
@@ -10,7 +10,7 @@ _Refactoring (noun)_: a change made to the internal structure of software to mak
 
 _Refactoring (verb)_: to restructure software by applying a series of refactorings without changing its observable behavior.
 
-## Books
+## `Books`
 
 * [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) by Martin Fowler and Kent Beck - *the* refactoring book, that presented the concept of refactoring to wider audience. Available in 2 editions: 1st contains examples in Java, 2nd in JavaScript. Must-read for any adept of software engineering
 * [Refactoring Workbook](https://www.pearson.com/store/p/refactoring-workbook/P100001822014) by William C. Wake - a workbook that uses the 1st edition of "Refactoring" book as a reference
@@ -54,7 +54,7 @@ _Refactoring (verb)_: to restructure software by applying a series of refactorin
   - One of my most productive days was throwing away 1000 lines of code. - Ken Thompson
   - Refactoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself. - Jason Gorman
 
-## License
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
